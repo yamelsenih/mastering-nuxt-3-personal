@@ -25,6 +25,10 @@ Start the development server on http://localhost:3000
 npm run dev
 ```
 
+## Test it
+
+[http://localhost:3000/course/chapter/1-chapter-1/lesson/3-typing-component-events](http://localhost:3000/course/chapter/1-chapter-1/lesson/3-typing-component-events)
+
 ## Production
 
 Build the application for production:
